@@ -1,6 +1,6 @@
 {
   "name": "nutra-jasmine-coverage-babel-preset",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "The \"nutra-jasmine-coverage-babel-preset\" module makes available the \"jasmine\" framework, \"Istanbul\" code coverage tool, \"babel\" transpiler, and \"commonjs\" module loader to the \"N.U.T.R.A.\" unit test runner.",
   "repository": {
     "type": "git",
@@ -34,7 +34,7 @@
     "nutra-babel": "0.0.4",
     "nutra-commonjs": "0.0.3",
     "nutra-coverage": "0.0.4",
-    "nutra-jasmine": "0.0.2"
+    "nutra-jasmine": "0.0.3"
   },
   "devDependencies": {
     "next-update": "^1.2.2"
